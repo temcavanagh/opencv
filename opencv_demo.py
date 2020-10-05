@@ -15,5 +15,5 @@ cv2.destroyAllWindows()
 
 # $ python -m venv work
 # $ source work/bin/activate
-# $ cd desktop
+# $ cd dev/opencv
 # $ python opencv_demo.py
